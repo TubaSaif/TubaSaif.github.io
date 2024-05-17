@@ -35,7 +35,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb727;
+  background: #570987;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -126,7 +126,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb727;
+  color: #570987;
 }
 
 
@@ -195,7 +195,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb727;
+  color: #570987;
 }
 
 .navbar-mobile .getstarted,
@@ -266,7 +266,7 @@ h6 {
 }
 
 #hero .btn-scroll:hover {
-  color: #ffb727;
+  color: #570987;
 }
 
 @media (min-width: 1024px) {
@@ -448,8 +448,8 @@ section {
 
 .about .social-links a:hover {
   color: #fff;
-  border-color: #ffb727;
-  background: #ffb727;
+  border-color: #570987;
+  background: #570987;
 }
 
 
@@ -510,7 +510,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #f3a200;
-  border-color: #ffb727;
+  border-color: #570987;
 }
 
 .portfolio .portfolio-item {
@@ -602,7 +602,7 @@ section {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #ffb727;
+  color: #570987;
   border-radius: 50%;
   padding: 15px;
   background: #fff6e4;
@@ -642,8 +642,8 @@ section {
 
 .contact .social-links a:hover {
   color: #fff;
-  border-color: #ffb727;
-  background: #ffb727;
+  border-color: #570987;
+  background: #570987;
 }
 
 .contact .php-email-form {
@@ -709,7 +709,7 @@ section {
 
 .contact .php-email-form input::focus,
 .contact .php-email-form textarea::focus {
-  background-color: #ffb727;
+  background-color: #570987;
 }
 
 .contact .php-email-form input {
@@ -721,7 +721,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #ffb727;
+  background: #570987;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -794,7 +794,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #ffb727;
+  background: #570987;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
